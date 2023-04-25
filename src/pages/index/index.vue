@@ -9,12 +9,12 @@
 
 <script>
 export default {
-  data() {
+  data () {
     return {
       title: 'Hello',
     }
   },
-  onLoad() {},
+  onLoad () { },
   methods: {},
 }
 </script>
